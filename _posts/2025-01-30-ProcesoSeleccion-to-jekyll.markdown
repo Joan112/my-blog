@@ -2,7 +2,7 @@
 layout: post
 title: "Reflexión personal sobre los procesos de selección"
 date: 2025-01-30 11:48:55 -0700
-categories: jekyll update
+categories: Programación
 ---
 
 💭 Reflexión personal sobre los procesos de selección 💭
